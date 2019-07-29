@@ -7,15 +7,14 @@ Gmii Vision
 ===========
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Contents:
-
-    mission
+   :maxdepth: 2
+   
+   mission
 
 
 Indices and tables
 ==================
 
-* :ref:`mission`
+* :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
