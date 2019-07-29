@@ -1,1 +1,1 @@
-"# gmii-vision-document" 
+# gmii-vision-document
