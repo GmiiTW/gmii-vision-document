@@ -12,5 +12,5 @@ Gmii Vision 文件
 
    content/mission
    content/device/index
-   content/vision
+   content/vision/index
    content/coordinate
