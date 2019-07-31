@@ -3,20 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Gmii Vision's documentation!
-=======================================
+Gmii Vision 文件
+================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 目錄:
 
-   mission
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   content/mission
+   content/device/index
+   content/vision
+   content/coordinate
