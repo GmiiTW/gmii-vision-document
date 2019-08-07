@@ -72,8 +72,32 @@ for i in range(1, 11):
 
 ![](image/ai_classifier_train.png)
 
-### 測試
+## 測試
 
 訓練分頁下方可以擷取指定編號相機的影像，可以直接測試影像或是在影像上測試訓練好的智能分類器。
 
 ![](image/ai_classifier_test.png)
+
+## 在任務中使用智能分內器
+
+### Blockly
+
+![](image/ai_classifier_example_blockly.png)
+
+### Python
+
+```
+from api import GmiiVisionAPI
+import time
+
+GmiiVisionSocket = GmiiVisionAPI.load()
+
+
+res = None
+
+
+res = GmiiVisionAPI.ClassifierClassify(GmiiVisionSocket, 1, 0)
+GmiiVisionAPI.ClearOutput(GmiiVisionSocket)
+print(str('類別：') + str(res[0]))
+print(str('分數：') + str(res[-1]))
+```
