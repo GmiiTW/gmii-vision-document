@@ -101,3 +101,24 @@ GmiiVisionAPI.ClearOutput(GmiiVisionSocket)
 print(str('類別：') + str(res[0]))
 print(str('分數：') + str(res[-1]))
 ```
+## 展示
+
+### 使用目標檢測製作訓練資料集
+
+<!-- ![](video/ai_classifier_train.mp4) -->
+<!-- <video style="width:100%" controls>
+  <source src="../../../_static/video/ai_classifier_train.mp4" type="video/mp4">
+</video> -->
+<div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="350" src="https://www.youtube.com/embed/uUnAHjZ8kcI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+### 使用智能分類器分類搭配機械手臂
+
+<!-- ![](video/ai_classifier_run.mp4) -->
+<!-- <video style="width:100%" controls>
+  <source src="../../../_static/video/ai_classifier_run.mp4" type="video/mp4">
+</video> -->
+<div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="350" src="https://www.youtube.com/embed/b7VoXI3YNTk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
