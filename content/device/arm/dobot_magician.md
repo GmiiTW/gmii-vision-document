@@ -2,9 +2,9 @@
 
 ## 新增 Magician
 
-在裝置選單中選擇新增 Magician，選取裝置連接埠後連線。
-
 ![](image/magician_new.png)
+
+在裝置選單中選擇新增 Magician，選取裝置連接埠後連線。
 
 ##	手臂控制器
 
