@@ -5,7 +5,7 @@
 .. toctree::
     :maxdepth: 1
 
-    camera.md
+    camera/camera.md
 
 .. toctree::
     :maxdepth: 1

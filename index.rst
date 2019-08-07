@@ -10,7 +10,7 @@ Gmii Vision 文件
    :maxdepth: 2
    :caption: 目錄:
 
-   content/mission
+   content/mission/mission.md
    content/device/index
    content/vision/index
    content/coordinate
